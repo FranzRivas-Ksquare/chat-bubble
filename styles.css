@@ -20,6 +20,7 @@ br {
 .chat {
     display: flex;
     flex-direction: column;
+    width: 60rem;
 }
 
 .box-text {
