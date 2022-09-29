@@ -1,0 +1,43 @@
+body {
+    background-color: #fdfdfd;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    padding: 0px 20px 0px 20px;
+}
+
+img {
+    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
+}
+
+br {
+    margin: 2rem 0rem;
+}
+
+.chat {
+    display: flex;
+    flex-direction: column;
+}
+
+.box-text {
+    display: flex;
+
+}
+
+.user {
+    background-color: #f1ffef;
+    border-radius: 10px;
+    margin-left: 1rem;
+    width: 20rem;
+}
+
+.contact {
+    background-color: #f1f5fb;
+    border-radius: 10px;
+    margin-left: 40%;
+    margin-right: 1rem;
+    width: 20rem;
+}
